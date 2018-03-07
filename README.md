@@ -12,6 +12,5 @@ Context in React provides a mechanism for a child component to access a value in
 From now on we’ll refer to the ancestor as the provider and the child as the consumer.
 
 
-The example is based on an example by Kent C. Dodds.
-
+The example is using React 16.3 alpha - check the package.json for details
 
